@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+#equipoSeleccionado {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.img-thumbnail {
+  max-width: 100%;
+}
+
+#loadingIcon {
+  font-size: 24px;
+  color: #333;
+}

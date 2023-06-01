@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="mt-5">Selección Aleatoria de Equipo de Fútbol</h1>
+    <button id="seleccionarEquipoBtn" class="btn btn-primary mt-3" onclick="seleccionarEquipo()">Seleccionar Equipo</button>
+    <p id="equipoSeleccionado" class="mt-4"></p>
+    <div class="text-center mt-4">
+      <img id="logoEquipo" src="" class="img-thumbnail img-fluid col-md-4 col-sm-6 col-8">
+      <div id="loadingIcon" class="mt-3" style="display: none;">
+        <i class="fas fa-spinner fa-spin"></i>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
