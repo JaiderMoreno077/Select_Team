@@ -52,104 +52,14 @@ function seleccionarEquipo() {
         nombre: "Inter Milan",
         logo: "img/inter-milan-logo-1.png"
       },{
-        nombre: "Ajax",
-        logo: "img/Ajax_Amsterdam.png"
-      },{
-        nombre: "Benfica",
-        logo: "img/SL_Benfica_logo.png"
-      },{
-        nombre: "Porto",
-        logo: "img/FC_Porto.png"
-      },{
         nombre: "Napoli",
         logo: "img/SSC_Napoli.png"
       },{
         nombre: "AS Roma",
         logo: "img/AS_Roma_logo_(2017).png"
       },{
-        nombre: "Boca Juniors",
-        logo: "img/boca.png"
-      },{
-        nombre: "River Plate",
-        logo: "img/Escudo_del_C_A_River_Plate.png"
-      },{
-        nombre: "Atletico Nacional",
-        logo: "img/Escudo_de_Atlético_Nacional.png"
-      },{
-        nombre: "Millonarios",
-        logo: "img/Escudo_de_Millonarios_temporada_2022.png"
-      },{
-        nombre: "America de Cali",
-        logo: "img/América-de-Cali-Escudo.png"
-      },{
-        nombre: "Santa fe",
-        logo: "img/Escudo_de_Independiente_Santa_Fe.png"
-      },{
-        nombre: "Athletic Bilbao",
-        logo: "img/Club_Athletic_Bilbao_logo.png"
-      },{
-        nombre: "Valencia",
-        logo: "img/valencia.png"
-      },{
-        nombre: "Sevilla",
-        logo: "img/sevilla-fc-logo-0D80FA88A5-seeklogo.png"
-      },{
-        nombre: "Real Betis",
-        logo: "img/Real_betis_logo.png"
-      },{
-        nombre: "Villarreal",
-        logo: "img/villareal.png"
-      },{
-        nombre: "Real Sociedad",
-        logo: "img/real_sociedad.png"
-      },{
-        nombre: "Leicester City",
-        logo: "img/Leicester_City_crest.png"
-      },{
-        nombre: "Everton",
-        logo: "img/everton.png"
-      },{
-        nombre: "Wolverhampton",
-        logo: "img/Wolverhampton_Wanderers.png"
-      },{
-        nombre: "West Ham United",
-        logo: "img/West_Ham_United_FC.png"
-      },{
-        nombre: "Leeds United",
-        logo: "img/leeds_united.png"
-      },{
-        nombre: "Lazio",
-        logo: "img/Lazio.png"
-      },{
-        nombre: "Napoli",
-        logo: "img/Napoli.png"
-      },{
-        nombre: "Fiorentina",
-        logo: "img/Fiorentina.png"
-      },{
-        nombre: "Leipzig",
-        logo: "img/Leipzing.png"
-      },{
-        nombre: "Atalanta",
-        logo: "img/Atalanta.png"
-      },{
-        nombre: "Monaco",
-        logo: "img/Monaco.png"
-      },{
         nombre: "Newcastle",
         logo: "img/Newcastle_United_Logo.png"
-      },{
-        nombre: "Brighton",
-        logo: "img/Brighton.png"
-      },{
-        nombre: "Aston Villa",
-        logo: "img/Aston_villa.png"
-      },{
-        nombre: "Olympique Marseille",
-        logo: "img/Olympique_Marseille.png"
-      },{
-        nombre: "Lyon",
-        logo: "img/OL.png"
       }
       // Agrega el resto de los objetos de equipo con sus nombres y logotipos
       // ...
